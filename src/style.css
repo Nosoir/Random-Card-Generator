@@ -1,1 +1,14 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.rotar {
+  transform: rotate(180deg);
+}
+
+#number {
+  font-size: 120px;
+}
+
+#palo-top,
+#palo-bottom {
+  font-size: 80px;
+}
